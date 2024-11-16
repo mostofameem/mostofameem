@@ -19,12 +19,11 @@ I’m **Mostofa Meem**, a **Junior Software Engineer** at **TechnoNext Software 
 
 💬 **Ask me about**:  
 - **Golang**, **microservices**, or anything tech-related!  
+ 
 
-📫 **Reach me**: **Mostofa Meem**  
+🧑‍💻 **Pronouns**: **He/His**  
 
-😄 **Pronouns**: **He/His**  
-
-⚡ **Fun fact**: What’s the coolest alphabet? "B" because it’s between **A** and **C**.
+⚡ **Fun fact**: What’s the coolest alphabet? "B" because it’s between **AC**.
 
 
 
